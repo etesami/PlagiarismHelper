@@ -1,0 +1,9 @@
+user1 Group1
+user2 Group1
+user3 Group10
+user4 Group10
+user5 Group11
+user6 Group11
+user7 Group12
+user8 Group12
+user9 Group13
