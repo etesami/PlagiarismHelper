@@ -4,7 +4,7 @@ help="Usage:
     ./script DIR GROUPS_DIR"
 eval "$(docopts -A args -h "$help" : "$@")"
 
-source ~/.colors
+source ./.colors
 ROOT_FOLDER=${args[DIR]}
 GROUPS_DIR=${args[GROUPS_DIR]}
 MOSS_FOLDER="${args[DIR]}/moss_source"

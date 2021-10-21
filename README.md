@@ -8,4 +8,4 @@ This script helps to prepare assignment submissions for plagiarism checking. You
 Once the script is finished, you need to use some plagiarism tools to continue finding plagiarism. 
 
 ### Requirements
-This tool depends on **docopts** to parse the input arguments.
+This tool depends on [docopts](https://github.com/docopt/docopts) to parse the input arguments.
